@@ -1,6 +1,6 @@
 # AlgoBulls-Assignment
 
-This project implements a simple algorithmic trading strategy using US stock data from Alpha Vantage. The strategy is implemented as a Jupyter Notebook and consists of several functions and a class that work together to fetch and analyze stock data, and generate trading signals.
+This project implements a simple algorithmic trading strategy using US stock data from Alpha Vantage. The strategy is implemented as a Jupyter Notebook and consists of several functions and two classes that work together to fetch and analyze stock data, and generate trading signals.
 
 ## Setup
 
